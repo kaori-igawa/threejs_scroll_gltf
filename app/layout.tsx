@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "study",
-  description: "study",
+  title: "threejs-scroll-gltf",
+  description: "threejs-scroll-gltf",
 };
 
 export default function RootLayout({
